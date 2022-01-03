@@ -9,10 +9,10 @@ I am self-taught software developer from Poland. I have used multiple technologi
 <details>
   <summary style="font-size:1.25em"><strong>GitHub Stats</strong></summary>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=xnetcat&show_icons=true&theme=gotham">
+    <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=dantefernando&show_icons=true&theme=tokyonight">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xnetcat&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantefernando&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact" />
   </a>
 </details>
 
