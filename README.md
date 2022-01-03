@@ -1,6 +1,6 @@
-# Hey, my name is Dante.
+# Hey, my name is Dante :)
 
-I am self-taught software developer from Poland. I have used multiple technologies to create various projects ranging from web scraping to web servers. I have a good grasp in every field.
+High school student studying Computer Science. Right now I'm learning Python and developing several small projects. In the future I'm looking into learning Web Development and other languages such as JavaScript and C++.
 
 - 🌱 I’m currently learning: **Python**
 
