@@ -12,7 +12,7 @@ High school student studying Computer Science. Right now I'm learning Python and
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantefernando&langs_count=8&layout=compact&theme=dracula">
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantefernando&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact&theme=dracula" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dantefernando&langs_count=8&layout=compact&theme=dracula" />
   </a>
 </details>
 
@@ -37,7 +37,7 @@ High school student studying Computer Science. Right now I'm learning Python and
 
 ## Operating Systems
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Linux-%234285F4.svg?&style=for-the-badge&logo=archlinux&logoColor=white)
 ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 </details>
@@ -52,7 +52,7 @@ High school student studying Computer Science. Right now I'm learning Python and
 ## Contact
 
 [![gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:dantefernando0410@gmail.com)
-[discord](https://img.shields.io/badge/Suntzu#5019%238144-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)
+![discord](https://img.shields.io/badge/Suntzu%235019-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)]
 
 </details>
 
