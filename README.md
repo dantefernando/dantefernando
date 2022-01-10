@@ -52,7 +52,7 @@ High school student studying Computer Science. Right now I'm learning Python and
 ## Contact
 
 [![gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:dantefernando0410@gmail.com)
-![discord](https://img.shields.io/badge/Suntzu%235019-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)]
+![discord](https://img.shields.io/badge/Suntzu%235019-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)
 
 </details>
 
