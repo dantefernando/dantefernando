@@ -2,7 +2,7 @@
 
 High school student studying Computer Science. Right now I'm learning Python and developing several small projects. In the future I'm looking into learning Web Development and other languages such as JavaScript and C++.
 
-- 🌱 I’m currently learning: **Python**
+- 🌱 I’m currently learning: **Python and Java**
 
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/dantefernando?tab=repositories)
 
