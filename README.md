@@ -1,6 +1,6 @@
 # Hey, my name is Dante :)
 
-High school student studying Computer Science. Right now I'm learning Python and developing several small projects. In the future I'm looking into learning Web Development and other languages such as JavaScript and C++.
+Student studying Engineering at the University of Western Ontario. In the future I'm looking into learning Web Development and other languages such as JavaScript and C++.
 
 - 🌱 I’m currently learning: **Python and Java**
 
