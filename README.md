@@ -1,6 +1,6 @@
-# Hey, my name is Dante :)
+# Hi, my name is Dante :)
 
-Student studying Engineering at the University of Western Ontario. In the future I'm looking into learning Web Development and other languages such as JavaScript and C++.
+I'm a Student studying Engineering at the University of Western Ontario. On my page you can find several small projects that I've developed for school or personal reasons. In the future I'm looking into learning Web Development and other languages such as JavaScript, C++ and Rust.
 
 - 🌱 I’m currently learning: **Python and Java**
 
